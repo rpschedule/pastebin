@@ -1,6 +1,5 @@
 {
-    "alt_schedule": true,
+    "alt_schedule": false,
     "schedule": [
-        [5, 4, 1, "your dad comes back with the milk"]
     ]
 }
