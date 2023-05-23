@@ -1,5 +1,19 @@
 {
-    "alt_schedule": false,
+    "alt_schedule": true,
     "schedule": [
+        [7, 25, 0, "first block starts"],
+        [7, 51, 0, "first block ends"],
+        [7, 56, 0, "second block starts"],
+        [8, 22, 0, "second block ends"],
+        [8, 27, 0, "third block (final test) starts"],
+        [9, 17, 0, "third block ends"],
+        [9, 22, 0, "fourth block starts"],
+        [9, 48, 0, "fourth block ends"],
+        [9, 53, 0, "fifth block starts"],
+        [10, 19, 0, "fifth block ends"],
+        [10, 24, 0, "sixth block starts"],
+        [10, 50, 0, "sixth block ends"],
+        [10, 55, 0, "seventh block starts"],
+        [11, 45, 0, "school ends"]
     ]
 }
